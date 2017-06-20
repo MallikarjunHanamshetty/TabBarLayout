@@ -9,6 +9,7 @@ import java.util.ArrayList;
 
 /**
  * Created by mallikarjunhanamshetty on 6/20/17.
+ * CustomView Pager Adapter
  */
 
 public class ViewPagerAdapter extends FragmentPagerAdapter {
